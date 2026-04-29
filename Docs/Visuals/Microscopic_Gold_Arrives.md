@@ -1,3 +1,4 @@
+![Microscopic Gold Arrives](microscopic_gold_arrives.png)
 # Microscopic Gold Arrives
 
 ## Storybook Entry
